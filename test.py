@@ -4,6 +4,6 @@ print("Farewell to the Old World")
 print("Off To Sea")
 print("Back on land")
 x = 2.
-print(x)
+print(x*x)
 
 
